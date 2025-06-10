@@ -1,3 +1,18 @@
 #EXTM3U
-#EXTINF:-1 media="true" title="ACTION MOVIES" tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKkl37BQuKTanygYQG1pyYgLVgf.jpg" tvg-name="0,200,295_ jpg" media-dir="/Movies" group-title="ACTION MOVIES",group ,Kingdom of the Planet of the Apes"  ,0,200,295_ jpg" group ,Kingdom of the Planet of the Apes
+#EXTINF:-1 media="true"  tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKkl37BQuKTanygYQG1pyYgLVgf.jpg" tvg-name="0,200, Kingdom of the Planet of the Apes
 https://macdn.hakunaymatata.com/resource/892331f46fec7cb19cd02fc050bc5296.mp4?Expires=1749573866&Signature=1~NnEYA0dr1XCxi1eKNMuK-~caDDhqmPmM3UGHUAuipQTJ-Yf8Z~LjGYVFZXcy1IIZhEeEH0CpL0PnFHQ8f9WHZOuC973NbffWk1gX8juCaG5EVBnMTGiP9oIO6mP~w1zw5BAHgc7aP95f0rMMV03bcTFZBZzDToHi95Z1hg8BvBSLIMJEmoESFuxIDjfX4tMwq36AZ7uK1qMwzZmengFyx8YskwaT2IAU~SKzRNe63Xg8FUPzqtEdrzQPouSM3bMzlqWWnqZEFd-Z3nd3H9jqbPIwFWz1AoeOKS1PGDRlVSm56-UnIgGH9tEeBTEQzkzZYbHLSapRuXEcHTQm7dDQ__&Key-Pair-Id=KMHN1LQ1HEUPL
+
+#EXTINF:-1 media="true"  tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMDUS7VmFhb2coRfVBoGLR8ADBt.jpg" tvg-name="0,200, The Accountant²
+https://macdn.hakunaymatata.com/resource/fea9603cd4ebede210b870ec70a0d567.mp4?Expires=1750475514&Signature=44AeOzTgr2qeCQvrcUoTV9J-vDoyfZXSiICJE7cISdKgvl8ij2RrrgVDJOo-6qL8qrv62p8g-eSGtqquYVJoC-JT7-VUO73hiHY0QRzhsd~ut05qDTfebwo8EzoVPGxxklO7bnSZtEF6B295zQJhqkpSxG~gg7c6QHQSdZrzMgJ1YPPo7QDjRlk7ruyKqwr8ZR0exK8TRE-WHdSTn72oTAH-3Y3EOHLAG1CQwqDcZaG8wsOEUAr2ulsqlyccdInkxDH6S-5-ohRqWS3WbzhPWRsPwGBTaUHJMJ3XWAKj5yALpl~tAJflkzEiEgCTXt4Sa1LiN9xzQeuBm98EovJU1Q__&Key-Pair-Id=KMHN1LQ1HEUPL
+
+#EXTINF:-1 media="true"  tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IEW24vBiZerZrDlgLVSUU3oT1C.jpg" tvg-name="0,200, Shadow Force
+https://macdn.hakunaymatata.com/bt/9b94c7d3e675fac4d9c36b07c8fba66a.mp4?Expires=1749868261&Signature=Jupbe3XHpDiqmSWrtZouwT72U1vMkcelx204mHzUECGGjKtO8hxznMV4DyIAGU4UY7mYZc3VyyONyv9CJ0ilnsQWTX0e-s4nay5my4kMhe41NUaaI5looTZPcgIfPO6EeuwX~GrrONEEhnl6iU4zkik7QbG1f5u57IPd6kHjpQPZPVrdM0AB91xNDTPw7tZfqe6LQE40b0kRnQA9nFtIe3Ni-l0Dfyp2eKpE3hrGYTmAKK6wpNoB3bDdKV8Ah-xAa0yPWIN4PZyxfS~zEOa78DUsmrnY1nSf2lHt57wfeh5nbr5iHIkl-NivK9T-iLs1RZ4RMp1DT5GVbBo087JNbw__&Key-Pair-Id=KMHN1LQ1HEUPL
+
+#EXTINF:-1 media="true"  tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg" tvg-name="0,200, Mission: Impossible – The Final Reckoning
+https://vgorigin.hakunaymatata.com/resource/60a3fe1d996aac8974fdbe665fc3fc3d.mp4?Expires=1750049809&KeyName=wefeed&Signature=5N4LD7_XQZRBhG-lIlg4T3Y-ywvQbCr3I-42Pp3vJEE6clNrxKOBx2FaX4iRYPdprGOMCcJv96TsJ2ftseNWBQ
+
+#EXTINF:-1 media="true"  tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg" tvg-name="0,200, Mission: Impossible – Warfare 2025
+https://macdn.hakunaymatata.com/bt/80fb0352a97f3df9526ed4a6e9eb2dfa.mp4?Expires=1749576646&Signature=ZlxOhxBQMCi4tF2lL9QPcwt6cy13QuqXCEWjyye4xOxb95L9fWZbcVs7GgYUM0r8ex6wGjLsJBUEzCM0erocIZlNXLGLuDdNgmsXmdhc0hy0l2AxQG8bspuqC~GvPI2Ul~RkPMpC12eHbFUxYQViPSm8BY8Zxv1Tcf0Pc4BxKDi~eEBbiUSuL5HzJlG61kXFemg38jn-QmuiIo2VwxymlNcxVYcrMFzIvaJ8czVOU-gExMYgCpILMmdQ84pM95iZTz~U5hFflqn35yr-UK-BHAKwpBzyEHZbaTzqRYpbqR698DT1z4R~un~vVpIlf-NmZsrZnXD1dBr5iYAr6ibMsA__&Key-Pair-Id=KMHN1LQ1HEUPL
+
+#EXTINF:-1 media="true"  tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbimIPTVsSlnmqSW5ngEsUxtHLM.jpg" tvg-name="0,200, Predator: Killer of Killers
+https://macdn.hakunaymatata.com/resource/2c833ddaf1d8e5d055aa32e0981ac666.mp4?Expires=1750408860&Signature=GF2NaaTRjZohvFyuH6dzNuNDYa7hVutD7pxf9pzTXh1J4BGgAIcsdE-sGqAfWEVqosdhYE1HlQrscrHje2HFTfVYQRdJT2hYLqGTQRHm6Ylg~UcUctgOpGAnjdtPraGeyfJJJRRtgRMSiOPMy252tQDGw2wW7Ro6suCP~~8ou95metTJ8H5y3FTdz33jLmSK5D9KtlX7ocGWxxz2TYApYbdAOiL26TOdUKw5-eceuN7IjKrdsi~Ka1GEwEOIu7frAYPL6dFXAn1NyaoISIFyJ7EMofIR2s8QBHhmDR1QjWe6Y7r~ZwybefNEYPN0Vmxk7uf4MjOGYF4hnqTiBnC-0Q__&Key-Pair-Id=KMHN1LQ1HEUPL
